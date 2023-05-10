@@ -1,0 +1,12 @@
+.input-group {
+    display: flex;
+    align-items: center;
+}
+
+.input-group .form-check-input {
+    margin-right: 10px;
+}
+
+.input-group .form-control {
+    margin-left: 10px;
+}
